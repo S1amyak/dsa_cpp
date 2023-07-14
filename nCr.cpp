@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// program to find nCr 
 int factorial(int a)
 {
     int fact = 1;
